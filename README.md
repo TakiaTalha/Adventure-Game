@@ -13,8 +13,8 @@ We used four design patterns to implement this game which are:
 4. Factory Pattern
 
 # Installations
--To run this game, you need to have Java and JavaFX installed on your system.
--Clone or download the source code from this repository.
--Navigate to the assignment2 folder and run AdventureGameapp.java to start the game.
+1.To run this game, you need to have Java and JavaFX installed on your system.
+2.Clone or download the source code from this repository.
+3.Navigate to the assignment2 folder and run AdventureGameapp.java to start the game.
 
 
